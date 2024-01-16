@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="string_array_banners">
+        <item>img_cs_banner</item>
+        <item>img_design_banner</item>
+        <item>img_math_banner</item>
+        <item>img_se_banner</item>
+    </string-array>
+
+    <string-array name="string_array_titles">
+        <item>Computer Science</item>
+        <item>Design</item>
+        <item>Mathematics</item>
+        <item>Software Engineering</item>
+    </string-array>
+
+    <string-array name="string_array_content">
+        <item>Computer Science is rapidly changing the world we live in. Studying Computer Science at the University of Waikato, you\'ll learn about software systems and how people and computers interact. You\'ll also learn how to create new software, and ensure it\'s easy for people to use.</item>
+        <item>Studying Design at the University of Waikato makes you highly sought after, with a unique combination of design and coding skills. You will be able to meet the increasing demand for designers who can work in a variety of media, such as websites, apps, gaming and virtual reality.</item>
+        <item>Mathematics is a subject of vital importance that underpins many activities of our modern world. Employers recognise University of Waikato Mathematics graduates for their analytical and problem solving skills as well as their high level of numeracy, which are critical skills for a broad range of jobs.</item>
+        <item>Software Engineers design, develop, maintain and oversee complex software-intensive projects while assuring their quality. These highly interconnected systems must meet multiple requirements, including correctness, usability, performance, safety and security.</item>
+    </string-array>
+
+</resources>
